@@ -1,7 +1,0 @@
-[
-{
-  "directory": "D:/STUDIA/C++/pd_0/lab-1-tpolskyy/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/zal.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\zal.dir\\test.cpp.obj -c D:\\STUDIA\\C++\\pd_0\\lab-1-tpolskyy\\test.cpp",
-  "file": "D:/STUDIA/C++/pd_0/lab-1-tpolskyy/test.cpp"
-}
-]

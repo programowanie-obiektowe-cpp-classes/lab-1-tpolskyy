@@ -1,3 +1,0 @@
-D:/STUDIA/C++/pd_0/lab-1-tpolskyy/build/CMakeFiles/zal.dir
-D:/STUDIA/C++/pd_0/lab-1-tpolskyy/build/CMakeFiles/edit_cache.dir
-D:/STUDIA/C++/pd_0/lab-1-tpolskyy/build/CMakeFiles/rebuild_cache.dir
