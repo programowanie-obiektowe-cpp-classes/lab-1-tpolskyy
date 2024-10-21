@@ -32,3 +32,4 @@ TEST_CASE("algebra", "[]")
     REQUIRE(std::is_same_v< double, decltype(prod) >);
     CHECK(prod == Approx{4.});
 }
+
